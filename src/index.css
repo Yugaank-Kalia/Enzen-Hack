@@ -1,0 +1,166 @@
+@import '~antd/dist/antd.css';
+body{
+
+  background: #2C3A47;
+
+}
+.Land{
+
+  background: url('./marko-manojlovic-1098733-unsplash.jpg');
+  height: 897px;
+  background-size: 100%;
+  z-index: -1;
+  left: 0;
+  right: 0;
+
+}
+.Login{
+
+  background: url('./bonnie-kittle-186235-unsplash.jpg');
+  height: 897px;
+  background-size: 100%;
+  z-index: -1;
+  left: 0;
+  right: 0;
+
+}
+.chart h1{
+
+  margin-left: 500px;
+  padding-bottom: 50px;
+  padding-top: 20px;
+  font-family: 'Rubik', sans-serif;
+
+}
+
+.chart h3{
+
+  margin-left: 100px;
+  padding-bottom: 50px;
+  padding-top: 20px;
+  font-family: 'Rubik', sans-serif;
+
+}
+
+.chart button{
+
+  margin-left: 650px;
+  margin-bottom: 100px;
+  margin-top: -90px;
+}
+.Land h1{
+  font-family: 'Rubik', sans-serif;
+  font-size: 50px;
+  color: #c8d6e5;
+  margin-left: 525px;
+  padding-bottom: 100px;
+  margin-top: 2em;   
+
+}
+
+.Land h3{
+
+  font-family: 'Rubik', sans-serif;
+  font-size: 50px;
+  color: #c8d6e5;
+  text-align: center;
+  font-weight: normal;
+  margin-bottom: 10;
+
+}
+
+.Button{
+  margin-top: 20px;
+  margin-left: 690px;
+}
+.Img {
+
+  padding-bottom: 250px;
+
+}
+.Logo img{
+
+  height: 100px;
+  width: 100px;
+  margin-left: 720px;
+  margin-top: 100px;
+}
+
+.Form{
+
+  background-color:#CFD8DC;
+  height: 320px;
+  width: 400px;
+  margin-left: 540px;
+  margin-right: 400px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 110px;
+  border-radius: 20px;
+
+}
+
+.Form input{
+  border-radius: 20px;
+}
+
+.Form button{
+  border-radius: 20px;
+}
+
+.Input-user{
+
+  padding-top: 30px;
+  padding-bottom: 10px;
+
+}
+.Input-pass{
+
+  padding-top: 30px;
+  padding-bottom: 50px;
+
+}
+
+.Btn-login button{
+  width: 100%;
+}
+
+.Social{
+  padding-top: -10px;
+}
+
+p{
+  display: inline-block;
+  padding-right: 5px;
+
+}
+.Month h1{
+
+  margin-left: 500px;
+  padding-bottom: 50px;
+  padding-top: 20px;
+  font-family: 'Rubik', sans-serif;
+
+}
+
+.Month h3{
+
+  margin-left: 100px;
+  padding-bottom: 50px;
+  padding-top: 20px;
+  font-family: 'Rubik', sans-serif;
+
+}
+
+.Month button{
+
+  margin-left: 650px;
+  margin-bottom: 100px;
+  margin-top: -90px;
+}
+.Btn {
+  margin-top: 30px;
+  margin-left: 1400px;
+  margin-bottom: 100px;
+}
